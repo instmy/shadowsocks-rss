@@ -14,7 +14,7 @@ ShadowsocksR其它版本：[SSR python manyuser](https://github.com/breakwa11/sh
 3. 连接管理，随时断开指定节点的连接，或修改节点后自动断开
 4. 协议转换，把UDP包封装于TCP里发送，或把TCP包封装于UDP里发送
 5. 多重代理，通过设置前置socks5/http代理，可达到任意重代理
-6. 协议插件，支持自定义协议和协议混淆，详见[ShadowsocksR插件文档](https://github.com/breakwa11/shadowsocks-rss/blob/master/ssr.md)
+6. 协议插件，支持自定义协议和协议混淆，详见[ShadowsocksR插件文档](https://github.com/instmy/shadowsocks-rss/blob/master/ssr.md)
 
 你要是有兴趣和我联系的话，特别是编程技术上的支持，那就到  
 Twitter: [@breakwa11](https://twitter.com/breakwa11)  
